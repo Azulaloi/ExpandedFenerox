@@ -1,0 +1,14 @@
+[
+{ "op" : "add", "path" : "/speciesShips/fenerox", "value" : [
+    "/ships/fenerox/feneroxT0.structure",
+    "/ships/fenerox/feneroxT1.structure",
+    "/ships/fenerox/feneroxT2.structure",
+    "/ships/fenerox/feneroxT3.structure",
+    "/ships/fenerox/feneroxT4.structure",
+    "/ships/fenerox/feneroxT5.structure",
+    "/ships/fenerox/feneroxT6.structure",
+    "/ships/fenerox/feneroxT7.structure",
+    "/ships/fenerox/feneroxT8.structure"]
+ }
+]
+

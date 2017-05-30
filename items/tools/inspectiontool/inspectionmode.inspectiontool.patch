@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/outOfRangeText/fenerox",
+    "value": [
+      "Cannot see. Too far. Feeling disappointed.",
+      "Not visible. Too distant. Mildly frustrating."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/nothingThereText/fenerox",
+    "value": [
+      "Nothing there. Just air. Not interesting.",
+      "Empty space. Boring result. Feeling indifferent."
+    ]
+  }
+]

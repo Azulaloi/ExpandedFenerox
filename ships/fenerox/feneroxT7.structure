@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 10
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "feneroxT7.png",
+      "position" : [44, 34],
+      "fullbright" : true
+    },
+    {
+      "image" : "feneroxT7lit.png",
+      "position" : [44, 34]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "feneroxT7blocks.png"
+}

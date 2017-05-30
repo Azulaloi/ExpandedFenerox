@@ -1,0 +1,9 @@
+[
+{ "op" : "add", "path" : "/species/fenerox", "value" : {
+    "aiFrames" : "FeneroxAI.png",
+    "portraitFrames" : "portraits/feneroxportrait.png",
+    "staticFrames" : "staticFenerox.png"
+    }
+ }
+]
+

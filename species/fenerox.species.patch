@@ -1,0 +1,85 @@
+[
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "FENEROX"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "The Fenerox are characteristically friendly, but young in the galactic community. Only a select few have been uplifted to explore the universe."
+  },
+  {
+    "op": "replace",
+    "path": "/defaultBlueprints/tier1",
+    "value": [
+
+            { "item" : "flagfenerox" },
+
+            { "item" : "feneroxtier1head" },
+            { "item" : "feneroxtier1chest" },
+            { "item" : "feneroxtier1pants" },
+            { "item" : "feneroxtier2head" },
+            { "item" : "feneroxtier2chest" },
+            { "item" : "feneroxtier2pants" },
+
+            { "item" : "ironshortsword" },
+            { "item" : "ironbroadsword" },
+            { "item" : "tungstenaxe" },
+            { "item" : "tungstenhammer" },
+
+            { "item" : "feneroxtier3head" },
+            { "item" : "feneroxtier3chest" },
+            { "item" : "feneroxtier3pants" },
+            { "item" : "feneroxtier4head" },
+            { "item" : "feneroxtier4chest" },
+            { "item" : "feneroxtier4pants" },
+
+            { "item" : "titaniumdagger" },
+            { "item" : "titaniumspear" },
+            { "item" : "durasteelbroadsword" },
+            { "item" : "durasteelshortsword" },
+
+            { "item" : "feneroxtier5ahead" },
+            { "item" : "feneroxtier5achest" },
+            { "item" : "feneroxtier5apants" },
+            { "item" : "feneroxtier6ahead" },
+            { "item" : "feneroxtier6achest" },
+            { "item" : "feneroxtier6apants" },
+
+            { "item" : "feneroxtier5mhead" },
+            { "item" : "feneroxtier5mchest" },
+            { "item" : "feneroxtier5mpants" },
+            { "item" : "feneroxtier6mhead" },
+            { "item" : "feneroxtier6mchest" },
+            { "item" : "feneroxtier6mpants" },
+
+            { "item" : "feneroxtier5shead" },
+            { "item" : "feneroxtier5schest" },
+            { "item" : "feneroxtier5spants" },
+            { "item" : "feneroxtier6shead" },
+            { "item" : "feneroxtier6schest" },
+            { "item" : "feneroxtier6spants" },
+
+            { "item" : "aegisaltpistol" },
+            { "item" : "aegisaltbow" },
+            { "item" : "feroziumwand" },
+            { "item" : "feroziumstaff" },
+            { "item" : "violiumshortsword" },
+            { "item" : "violiumbroadsword" },
+
+            { "item" : "feneroxstoragelocker" },
+            { "item" : "feneroxshipdoor" },
+            { "item" : "feneroxshiphatch" },
+
+            { "item" : "feneroxadventurershirt" },
+            { "item" : "feneroxadventurerpants" },
+            { "item" : "feneroxcommonershirt" },
+            { "item" : "feneroxcommonerlegs" },
+            { "item" : "feneroxfancyshirt" },
+            { "item" : "feneroxfancyskirt" },
+            { "item" : "feneroxworkershirt" },
+            { "item" : "feneroxworkerpants" }
+          ]
+  }
+]
