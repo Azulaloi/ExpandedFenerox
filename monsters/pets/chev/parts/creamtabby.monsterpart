@@ -1,0 +1,9 @@
+{
+  "name" : "creamtabby",
+  "category" : "petchev",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "creamtabby.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "cream",
+  "category" : "petchev",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cream.png"
+  }
+}

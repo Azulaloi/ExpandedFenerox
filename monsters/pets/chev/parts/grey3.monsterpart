@@ -1,0 +1,9 @@
+{
+  "name" : "grey3",
+  "category" : "petchev",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "grey3.png"
+  }
+}

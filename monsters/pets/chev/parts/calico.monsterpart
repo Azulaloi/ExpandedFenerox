@@ -1,0 +1,9 @@
+{
+  "name" : "calico",
+  "category" : "petchev",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "calico.png"
+  }
+}
