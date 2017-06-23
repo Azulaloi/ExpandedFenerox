@@ -81,5 +81,16 @@
             { "item" : "feneroxworkershirt" },
             { "item" : "feneroxworkerpants" }
           ]
+  },
+  {
+    "op": "replace",
+    "path": "/genders/0/characterImage",
+    "value": "/interface/title/feneroxmale.png"
+  },
+  {
+    "op": "replace",
+    "path": "/genders/1/characterImage",
+    "value": "/interface/title/feneroxfemale.png"
   }
+  
 ]
