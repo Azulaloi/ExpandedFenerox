@@ -10,12 +10,12 @@
   "backgroundOverlays" : [
     {
       "image" : "feneroxT6.png",
-      "position" : [55, 34],
+      "position" : [10, 29],
       "fullbright" : true
     },
     {
       "image" : "feneroxT6lit.png",
-      "position" : [55, 34]
+      "position" : [10, 29]
     }
   ],
 
